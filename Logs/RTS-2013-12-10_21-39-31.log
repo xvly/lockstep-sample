@@ -1,0 +1,139 @@
+2013-12-10 21:39:32,877 [1] DEBUG NetworkManager [(null)] - Starting Server
+2013-12-10 21:39:32,908 [1] DEBUG NetworkManager [(null)] - startServer called
+2013-12-10 21:39:32,992 [1] DEBUG NetworkManager [(null)] - Server initialized
+2013-12-10 21:39:33,009 [1] DEBUG NetworkManager [(null)] - Expected player count : 2
+2013-12-10 21:39:33,255 [1] DEBUG NetworkManager [(null)] - Master Server Event: RegistrationSucceeded
+2013-12-10 21:39:37,133 [1] DEBUG NetworkManager [(null)] - OnPlayerConnected, playerID:1
+2013-12-10 21:39:37,140 [1] DEBUG NetworkManager [(null)] - Player Count : 2
+2013-12-10 21:39:37,148 [1] DEBUG NetworkManager [(null)] - Calling RegisterPlayerAll...
+2013-12-10 21:39:37,151 [1] DEBUG NetworkManager [(null)] - Calling RegisterPlayerAll...
+2013-12-10 21:39:37,155 [1] DEBUG LockStepManager [(null)] - GameStart called. My PlayerID: 0
+2013-12-10 21:39:37,196 [1] DEBUG LockStepManager [(null)] - Server Message: Player 1 is confirming Player 0 is ready to start the game.
+2013-12-10 21:39:37,200 [1] DEBUG LockStepManager [(null)] - Player 1 is ready to start the game.
+2013-12-10 21:39:37,204 [1] DEBUG LockStepManager [(null)] - Server Message: Player 0 is confirming Player 1 is ready to start the game.
+2013-12-10 21:39:37,207 [1] DEBUG LockStepManager [(null)] - All players are ready to start. Starting Game.
+2013-12-10 21:39:37,247 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2013-12-10 21:39:37,282 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 1
+2013-12-10 21:39:37,454 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 1
+2013-12-10 21:39:37,463 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 2
+2013-12-10 21:39:37,657 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 2
+2013-12-10 21:39:37,665 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 3
+2013-12-10 21:39:37,859 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 3
+2013-12-10 21:39:37,867 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 4
+2013-12-10 21:39:38,061 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 4
+2013-12-10 21:39:38,069 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 5
+2013-12-10 21:39:38,246 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 5
+2013-12-10 21:39:38,260 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 6
+2013-12-10 21:39:38,454 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 6
+2013-12-10 21:39:38,469 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 7
+2013-12-10 21:39:38,647 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 7
+2013-12-10 21:39:38,655 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 8
+2013-12-10 21:39:38,849 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 8
+2013-12-10 21:39:38,857 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 9
+2013-12-10 21:39:39,055 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 9
+2013-12-10 21:39:39,063 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 10
+2013-12-10 21:39:39,261 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 10
+2013-12-10 21:39:39,277 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 11
+2013-12-10 21:39:39,460 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 11
+2013-12-10 21:39:39,467 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 12
+2013-12-10 21:39:39,662 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 12
+2013-12-10 21:39:39,677 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 13
+2013-12-10 21:39:39,848 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 13
+2013-12-10 21:39:39,864 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 14
+2013-12-10 21:39:40,048 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 14
+2013-12-10 21:39:40,056 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 15
+2013-12-10 21:39:40,251 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 15
+2013-12-10 21:39:40,259 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 16
+2013-12-10 21:39:40,452 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 16
+2013-12-10 21:39:40,468 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 17
+2013-12-10 21:39:40,656 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 17
+2013-12-10 21:39:40,664 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 18
+2013-12-10 21:39:40,859 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 18
+2013-12-10 21:39:40,875 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 19
+2013-12-10 21:39:41,047 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 19
+2013-12-10 21:39:41,055 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 20
+2013-12-10 21:39:41,250 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 20
+2013-12-10 21:39:41,258 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 21
+2013-12-10 21:39:41,452 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 21
+2013-12-10 21:39:41,460 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 22
+2013-12-10 21:39:41,654 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 22
+2013-12-10 21:39:41,659 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 23
+2013-12-10 21:39:41,853 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 23
+2013-12-10 21:39:41,861 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 24
+2013-12-10 21:39:42,055 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 24
+2013-12-10 21:39:42,063 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 25
+2013-12-10 21:39:42,255 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 25
+2013-12-10 21:39:42,263 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 26
+2013-12-10 21:39:42,457 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 26
+2013-12-10 21:39:42,465 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 27
+2013-12-10 21:39:42,661 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 27
+2013-12-10 21:39:42,669 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 28
+2013-12-10 21:39:42,847 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 28
+2013-12-10 21:39:42,855 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 29
+2013-12-10 21:39:43,049 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 29
+2013-12-10 21:39:43,057 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 30
+2013-12-10 21:39:43,252 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 30
+2013-12-10 21:39:43,267 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 31
+2013-12-10 21:39:43,462 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 31
+2013-12-10 21:39:43,470 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 32
+2013-12-10 21:39:43,646 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 32
+2013-12-10 21:39:43,660 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 33
+2013-12-10 21:39:43,859 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 33
+2013-12-10 21:39:43,874 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 34
+2013-12-10 21:39:44,051 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 34
+2013-12-10 21:39:44,067 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 35
+2013-12-10 21:39:44,084 [1] DEBUG NetworkManager [(null)] - Master Server Event: RegistrationSucceeded
+2013-12-10 21:39:44,254 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 35
+2013-12-10 21:39:44,262 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 36
+2013-12-10 21:39:44,456 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 36
+2013-12-10 21:39:44,464 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 37
+2013-12-10 21:39:44,659 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 37
+2013-12-10 21:39:44,667 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 38
+2013-12-10 21:39:44,861 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 38
+2013-12-10 21:39:44,866 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 39
+2013-12-10 21:39:45,060 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 39
+2013-12-10 21:39:45,065 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 40
+2013-12-10 21:39:45,259 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 40
+2013-12-10 21:39:45,267 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 41
+2013-12-10 21:39:45,460 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 41
+2013-12-10 21:39:45,469 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 42
+2013-12-10 21:39:45,663 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 42
+2013-12-10 21:39:45,671 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 43
+2013-12-10 21:39:45,848 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 43
+2013-12-10 21:39:45,864 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 44
+2013-12-10 21:39:46,049 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 44
+2013-12-10 21:39:46,057 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 45
+2013-12-10 21:39:46,252 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 45
+2013-12-10 21:39:46,260 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 46
+2013-12-10 21:39:46,454 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 46
+2013-12-10 21:39:46,462 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 47
+2013-12-10 21:39:46,656 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 47
+2013-12-10 21:39:46,664 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 48
+2013-12-10 21:39:46,859 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 48
+2013-12-10 21:39:46,867 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 49
+2013-12-10 21:39:47,062 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 49
+2013-12-10 21:39:47,070 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 50
+2013-12-10 21:39:47,249 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 50
+2013-12-10 21:39:47,253 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 51
+2013-12-10 21:39:47,447 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:47,497 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:47,547 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:47,597 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:47,647 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:47,696 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:47,763 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:47,812 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:47,862 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:47,899 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:47,949 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:48,004 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:48,054 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:48,103 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:48,153 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:48,203 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:48,253 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:48,302 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:48,352 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:48,402 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:48,451 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2013-12-10 21:39:48,653 [1] DEBUG NetworkManager [(null)] - Local server connection disconnected
